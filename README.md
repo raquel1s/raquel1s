@@ -29,8 +29,8 @@ Atualmente estudando e desenvolvendo projetos com foco em:
 - 🎨 [**Portal Architecture**](https://github.com/raquel1s/Portal-Architecture): Layouts responsivos com CSS.
 - 📱 [**Rick and Morty App (Flutter)**](https://github.com/raquel1s/rick-and-morty-api-app-flutter): Aplicativo mobile consumindo API.
 - 🌐 [**Studio Ghibli API**](https://github.com/raquel1s/studio-ghibli-javascript-api): Consumo de dados via JavaScript.
-- 🎮 [**Jogo da Velha**](https://github.com/raquel1s/JogoDaVelha): Projeto colaborativo em C++.
-- 🧳 [**Cadastrar Viajante**](https://github.com/raquel1s/cadastrarViajante): Projeto com foco em lógica e estrutura de dados em C++.
+- 🎮 [**Jogo da Velha**](https://github.com/raquel1s/JogoDaVelha): Projeto colaborativo em Flutter.
+- 🧳 [**Cadastrar Viajante**](https://github.com/raquel1s/cadastrarViajante): Projeto com foco em lógica e estrutura de dados em Flutter.
 
 ---
 
