@@ -7,7 +7,7 @@ Aprendiz em Desenvolvimento de Sistemas na **WEG** | Jaraguá do Sul - SC
 ## 🎓 Em aprendizado
 
 Atualmente estudando e desenvolvendo projetos com foco em:
-- Estruturas de dados com **C++**
+- Estruturas de dados com **Flutter**
 - Desenvolvimento web com **HTML, CSS e JavaScript**
 - **APIs REST** e consumo de dados
 - **Flutter** para aplicações mobile
