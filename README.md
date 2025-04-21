@@ -1,7 +1,6 @@
 # 👩‍💻 Raquel da Silva
 
 Aprendiz em Desenvolvimento de Sistemas na **WEG** | Jaraguá do Sul - SC  
-Atualmente mergulhada no universo da programação, busco evoluir constantemente por meio de projetos práticos, estudos e colaboração com outros desenvolvedores.
 
 ---
 
