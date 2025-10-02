@@ -9,7 +9,7 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 
 ## 🚀 Sobre mim
 - 🎓 Técnica em Desenvolvimento de Sistemas
-- 💻 Atualmente faço aprendizagem industrial em Desenvolvimento de Sistemas na WEG
+- 💻 Aprendizagem Industrial em Desenvolvimento de Sistemas no CENTROWEG
 
 ---
 
