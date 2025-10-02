@@ -5,13 +5,13 @@ Sou **Técnica em Desenvolvimento de Sistemas** e atualmente atuo como **aprendi
 Além do backend, também atuo como **desenvolvedora full stack**, explorando tecnologias como **Next.js, Tailwind e MySQL**.  
 Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e pessoais que refletem meu crescimento contínuo na área de tecnologia.
 
----
+<hr style="border:1px solid #ccc"/>
 
 ## 🚀 Sobre mim
 - 🎓 Técnica em Desenvolvimento de Sistemas
 - 💻 Aprendizagem Industrial em Desenvolvimento de Sistemas no CENTROWEG
 
----
+<hr style="border:1px solid #ccc"/>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -40,7 +40,7 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 
 </div>
 
----
+<hr style="border:1px solid #ccc"/>
 
 ## 📊 Estatísticas do GitHub
 
@@ -57,12 +57,12 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 
 </div>
 
----
+<hr style="border:1px solid #ccc"/>
 
 ## 📫 Como me encontrar
 - 📧 Email: [silva.raquel2903@gmail.com](link)  
 - 💼 LinkedIn: [raquel-silva](https://www.linkedin.com/in/raquel-silva-52b4aa353/)
 
----
+<hr style="border:1px solid #ccc"/>
 
 ✨ *"Sempre aprendendo, sempre evoluindo."*  
