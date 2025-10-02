@@ -1,52 +1,78 @@
-# 👩‍💻 Raquel da Silva
+# 👋 Olá, eu sou [Seu Nome]
 
-Aprendiz em Desenvolvimento de Sistemas na **WEG** | Jaraguá do Sul - SC  
-
----
-
-## 🎓 Em aprendizado
-
-Atualmente estudando e desenvolvendo projetos com foco em:
-- Estruturas de dados com **Dart**
-- Desenvolvimento web com **HTML, CSS e JavaScript**
-- **APIs REST** e consumo de dados
-- **Flutter** para aplicações mobile
+Bem-vindo ao meu perfil do GitHub! 🚀  
+Aqui você encontrará projetos, estudos e experimentos em diferentes áreas da tecnologia.  
+Sou apaixonado(a) por programação, boas práticas de desenvolvimento e por transformar ideias em soluções reais.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-- 🎨 [**Portal Architecture**](https://github.com/raquel1s/Portal-Architecture): Layouts responsivos com CSS.
-- 📱 [**Rick and Morty App (Flutter)**](https://github.com/raquel1s/rick-and-morty-api-app-flutter): Aplicativo mobile consumindo API.
-- 🌐 [**Studio Ghibli API**](https://github.com/raquel1s/studio-ghibli-javascript-api): Consumo de dados via JavaScript.
-- 🎮 [**Jogo da Velha**](https://github.com/raquel1s/JogoDaVelha): Projeto colaborativo em Flutter.
-- 🧳 [**Cadastrar Viajante**](https://github.com/raquel1s/cadastrarViajante): Projeto com foco em lógica e estrutura de dados em Flutter.
+## 🚀 Sobre mim
+- 🎓 [Sua formação ou área de estudo]  
+- 💻 Atualmente focado em [área de interesse/tecnologia]  
+- 🏗️ Experiência em projetos acadêmicos e pessoais  
+- 🔍 Sempre buscando aprender novas ferramentas e tecnologias  
+- 🤝 Aberto(a) a colaborações e projetos interessantes  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tecnologias e Ferramentas
 
-![Raquel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raquel1s&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquel1s&layout=compact&theme=tokyonight)
+### 💻 Linguagens
+- [Liste suas linguagens: Ex. Java, Python, JavaScript, C...]  
+
+### 🌐 Desenvolvimento Web
+- [Ex. React, Next.js, Tailwind, Spring Boot...]  
+
+### 🗄️ Banco de Dados
+- [Ex. MySQL, PostgreSQL, MongoDB...]  
+
+### ⚙️ Ferramentas & Outros
+- [Ex. Git, Docker, Linux, Arduino...]  
 
 ---
 
-## 📫 Contato
+## 📂 Projetos em Destaque
+🔹 [Nome do Projeto 1](link) — breve descrição  
+🔹 [Nome do Projeto 2](link) — breve descrição  
+🔹 [Nome do Projeto 3](link) — breve descrição  
 
-📍 Jaraguá do Sul, SC  
-📧 [silva.raquel2903@gmail.com](mailto:silva.raquel2903@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/raquel-silva-52b4aa353)
+> 📌 Veja mais repositórios no meu perfil [aqui](https://github.com/seu-usuario).
 
 ---
 
-💡 Sempre buscando novos desafios e aprendizados. Aberta a colaborações e oportunidades no mundo da tecnologia.
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Estatísticas gerais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true"/>  
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>  
+
+<!-- Streak (dias seguidos de contribuição) -->
+<img height="180em" src="https://streak-stats.demolab.com?user=seu-usuario&theme=tokyonight"/>  
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🎯 Objetivos
+- Aprofundar conhecimentos em [área/tecnologia]  
+- Contribuir com projetos open-source  
+- Publicar projetos pessoais e acadêmicos  
+- Evoluir em [campo de interesse futuro]  
+
+---
+
+## 📫 Como me encontrar
+- 📧 Email: [seu-email]  
+- 💼 LinkedIn: [seu-linkedin]  
+- 🌐 Portfólio/Site: [seu-site]  
+
+---
+
+✨ *"Sempre aprendendo, sempre evoluindo."*  
