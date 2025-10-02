@@ -2,7 +2,7 @@
 
 Sou **Técnica em Desenvolvimento de Sistemas** e atualmente atuo como **aprendiz na WEG**. Meu foco está em **desenvolvimento backend**, principalmente com **Java e Spring Boot**, sempre buscando aplicar boas práticas e arquitetura de software sólida.  
 
-Além do backend, também atuo como **desenvolvedora full stack**, explorando tecnologias como **Next.js, Flutter e MySQL**.  
+Além do backend, também atuo como **desenvolvedora full stack**, explorando tecnologias como **Next.js, Tailwind e MySQL**.  
 Aqui no GitHub compartilho projetos que refletem minha evolução constante e minha paixão por transformar ideias em soluções reais.
 
 ---
