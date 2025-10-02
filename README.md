@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Raquel!
+# 👋 Raquel da Silva
 
 Sou **Técnica em Desenvolvimento de Sistemas** e atualmente atuo como **aprendiz na WEG**. Meu foco está em **desenvolvimento backend**, principalmente com **Java e Spring Boot**, sempre buscando aplicar boas práticas e arquitetura de software sólida.  
 
