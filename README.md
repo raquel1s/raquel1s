@@ -6,13 +6,19 @@ Além do backend, também atuo como **desenvolvedora full stack**, explorando te
 Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e pessoais que refletem meu crescimento contínuo na área de tecnologia.
 
 
+
+
+
 ## 🚀 Sobre mim
 - 🎓 Técnica em Desenvolvimento de Sistemas
 - 💻 Aprendizagem Industrial em Desenvolvimento de Sistemas no CENTROWEG
 
 
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
+<div align="center">
 
   <!-- Primeira linha -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -38,6 +44,8 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 </div>
 
 
+
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -54,9 +62,12 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 </div>
 
 
+
+
 ## 📫 Como me encontrar
 - 📧 Email: [silva.raquel2903@gmail.com](link)  
 - 💼 LinkedIn: [raquel-silva](https://www.linkedin.com/in/raquel-silva-52b4aa353/)
+
 
 
 ✨ *"Sempre aprendendo, sempre evoluindo."*  
