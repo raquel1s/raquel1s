@@ -1,14 +1,15 @@
 # 👋 Olá, eu sou a Raquel!
 
-Bem-vindo ao meu perfil do GitHub! 🚀  
-Aqui você encontrará projetos, estudos e experimentos em diferentes áreas da tecnologia.  
-Sou apaixonado(a) por programação, boas práticas de desenvolvimento e por transformar ideias em soluções reais.
+Sou **Técnica em Desenvolvimento de Sistemas** e atualmente atuo como **aprendiz na WEG**. Meu foco está em **desenvolvimento backend**, principalmente com **Java e Spring Boot**, sempre buscando aplicar boas práticas e arquitetura de software sólida.  
+
+Além do backend, também atuo como **desenvolvedora full stack**, explorando tecnologias como **Next.js, Flutter e MySQL**.  
+Aqui no GitHub compartilho projetos que refletem minha evolução constante e minha paixão por transformar ideias em soluções reais.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Técnica em Desenvolvimento de Sistemas
-- 💻 Atualmente faço aprendizagem industrial em Desenvolvimento de Sistema na WEG
+- 💻 Atualmente faço aprendizagem industrial em Desenvolvimento de Sistemas na WEG
 
 ---
 
@@ -41,15 +42,6 @@ Sou apaixonado(a) por programação, boas práticas de desenvolvimento e por tra
 
 ---
 
-## 📂 Projetos em Destaque
-🔹 [Nome do Projeto 1](link) — breve descrição  
-🔹 [Nome do Projeto 2](link) — breve descrição  
-🔹 [Nome do Projeto 3](link) — breve descrição  
-
-> 📌 Veja mais repositórios no meu perfil [aqui](https://github.com/seu-usuario).
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -69,7 +61,7 @@ Sou apaixonado(a) por programação, boas práticas de desenvolvimento e por tra
 
 ## 📫 Como me encontrar
 - 📧 Email: [silva.raquel2903@gmail.com](link)  
-- 💼 LinkedIn: [raquel-silva(https://www.linkedin.com/in/raquel-silva-52b4aa353/)]
+- 💼 LinkedIn: [raquel-silva](https://www.linkedin.com/in/raquel-silva-52b4aa353/)
 
 ---
 
