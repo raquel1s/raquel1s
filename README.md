@@ -8,7 +8,7 @@ Aqui no GitHub compartilho minha jornada de aprendizado, projetos acadêmicos e 
 <br>
 
 ## 🚀 Sobre mim
-- 🎓 Técnica em Desenvolvimento de Sistemas
+- 🎓 Técnica em Desenvolvimento de Sistemas - IFSC
 - 💻 Aprendizagem Industrial em Desenvolvimento de Sistemas no CENTROWEG
 
 <br>
